@@ -2,6 +2,8 @@
 
 This project aims to automate attendance recording using an ESP32 microcontroller and an R307S fingerprint sensor. It provides an accurate, secure, and efficient solution for recording attendance data directly to a Google Sheet. This reduces manual effort and increases data accuracy.
 
+![image alt]([image_url](https://github.com/SANJAY-K-04/IOT-BASED-ATTENDANCE-SYSTEM-USING-FINGERPRINT-SENSOR/blob/main/IMG%201.jpg?raw=true))
+
 ## Project Objective
 
 Develop an ESP32-based system that uses a fingerprint module (R307S) to automate the recording of attendance. The system automatically saves attendance data—including the person's name, time, and date—in a Google Sheet for easy access, management, and analysis.
