@@ -25,6 +25,8 @@ Develop an ESP32-based system that uses a fingerprint module (R307S) to automate
 
 ## How It Works
 
+![image alt](https://github.com/SANJAY-K-04/IOT-BASED-ATTENDANCE-SYSTEM-USING-FINGERPRINT-SENSOR/blob/main/Screenshot%202024-11-21%20215127.png?raw=true)
+
 1. **Initialize System**: The ESP32 microcontroller powers up, and the fingerprint sensor (R307S) is initialized to ensure readiness.
 
 2. **Scan Fingerprint**: The user places a finger on the fingerprint sensor, which scans the fingerprint.
